@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- Medium articles [https://medium.com/@hakanyusufoglu](https://medium.com/@hakanyusufoglu)
+- 📝 Medium articles [https://medium.com/@hakanyusufoglu](https://medium.com/@hakanyusufoglu)
 
 - 📫 How to reach me **hakanyusufoglu@outlook.com**
 

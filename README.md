@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan Yusufoğlu</h1>
-<h3 align="center">Dedicated junior software developer who loves teamwork</h3>
+<h3 align="center">Dedicated software developer who loves teamwork</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanyusufoglu" alt="hakanyusufoglu" /></a> </p>
 
